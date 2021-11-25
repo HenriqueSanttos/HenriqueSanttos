@@ -1,7 +1,7 @@
 # Seja Bem Vindo ao Meu Perfil ! :D
 ### Eu sou o Henrique Rodrigues,
 
-![snake gif](https://github.com/HenriqueSanttos/HenriqueSanttos/blob/output/github-contribution-grid-snake.gif)  
+
 
 <div align="center">
   <a href="https://github.com/HenriqueSanttos">
@@ -26,3 +26,4 @@
 
 </div>  
 
+![snake gif](https://github.com/HenriqueSanttos/HenriqueSanttos/blob/output/github-contribution-grid-snake.gif)  
