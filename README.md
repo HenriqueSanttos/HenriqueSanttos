@@ -1,5 +1,8 @@
 # Seja Bem Vindo ao Meu Perfil ! :D
-### Eu sou o Henrique Rodrigues,
+
+## Eu sou o Henrique Rodrigues,
+### Moro no Estado do Mato Grosso, Brasil 🌳
+### Atualmente estou estudando Front End 👨🏾‍💻
 
 
 
