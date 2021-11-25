@@ -2,10 +2,10 @@
 
 ## Eu sou o Henrique Rodrigues,
 ### Moro no Estado do Mato Grosso, Brasil 🌳
-### Atualmente estou estudando Front End 👨🏾‍💻
+### Atualmente estou estudando desenvolvimento web 👨🏾‍💻🖥
 
 
-
+#
 <div align="center">
   <a href="https://github.com/HenriqueSanttos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSanttos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
